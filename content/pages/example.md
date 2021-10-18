@@ -142,6 +142,7 @@ sections:
         url: '#'
         label: Apply Now
         style: primary
+        showIcon: false
       - type: Button
         url: '#'
         label: Learn more
