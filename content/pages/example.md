@@ -23,6 +23,7 @@ sections:
       text:
         textAlign: left
     contentWidth: small
+    contentAlignHoriz: center
   - type: ContactSection
     variant: variant-b
     colors: colors-e
