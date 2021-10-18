@@ -4,7 +4,7 @@ layout: PageLayout
 sections:
   - type: TextSection
     colors: colors-a
-    width: wide
+    width: full
     height: short
     title: The Section Title
     subtitle: The section subtitle
